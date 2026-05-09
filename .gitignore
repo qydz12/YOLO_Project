@@ -9,3 +9,5 @@ env/
 .vscode/
 #Jupyter缓存
 .ipynb_checkpoints/
+#YOLO训练结果
+runs/
