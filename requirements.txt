@@ -1,0 +1,15 @@
+#核心库
+ultralytics>=8.3.0
+opencv-python>=4.9.0
+numpy>=1.26.0
+psutil>=5.9.0
+
+#PyTorch系列
+torch>=2.4.0
+torchvision>=0.19.0
+torchaudio>=2.4.0
+
+#可选增强库
+tqdm>=4.66.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
